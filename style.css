@@ -1,0 +1,10 @@
+header{
+    background-image: url(img/pattern.png);
+    background-size: 250px;
+    height: 100px;
+}
+
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
