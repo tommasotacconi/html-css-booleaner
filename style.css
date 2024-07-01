@@ -1,8 +1,9 @@
 header{
+    border: 1px solid white;
     background-image: url(img/pattern.png);
     background-size: 250px;
     height: 100px;
-    background-color: rgb(135, 203, 255);
+    background-color: rgb(119, 175, 212);
 }
 
 .main-container {
