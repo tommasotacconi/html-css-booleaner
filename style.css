@@ -1,4 +1,5 @@
 header{
+    border: 2px solid black;
     background-image: url(img/pattern.png);
     background-size: 250px;
     height: 100px;
@@ -7,4 +8,13 @@ header{
 .main-container {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.logo-Booleaner{
+    margin: 2.08% 0;
+    height: 50%;
+    width: 300px;
+    background-image: url(img/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
