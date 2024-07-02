@@ -60,7 +60,7 @@ ul{
     border-spacing: 0;
 }
 
-.prima-colonna-tabella, .seconda-colonna-tabella{
+.first-table-row, .second-table-row{
     width: 25%
 }
 
@@ -68,7 +68,7 @@ tr:nth-child(odd){
       background-color: rgb(142, 228, 233);
 }
     
-#intestazione-tabella{
+#table-header{
       background-color: rgb(43, 167, 216);
       text-align: left;
       color: white;
