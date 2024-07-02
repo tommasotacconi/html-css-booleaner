@@ -1,5 +1,8 @@
+body{
+    margin: 0;
+}
+
 header{
-    border: 1px solid white;
     background-image: url(img/pattern.png);
     background-size: 250px;
     height: 100px;
@@ -12,12 +15,14 @@ header{
 }
 
 .logo-Booleaner{
+    display: inline-block;
     margin: 25px 0;
     height: 50%;
     width: 300px;
     background-image: url(img/logo.svg);
     background-size: contain;
     background-repeat: no-repeat;
+
 }
 
 h1{
