@@ -6,7 +6,7 @@ header{
     background-color: rgb(119, 175, 212);
 }
 
-.main-container {
+.main-container{
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -52,3 +52,8 @@ figure{
 figcaption{
     font-size: 14px;
 }
+
+ul{
+    list-style-position: inside;
+    padding: 0;
+  }
