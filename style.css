@@ -19,3 +19,20 @@ header{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+h1{
+    margin-bottom: 0;
+}
+
+.article-info{
+    font-size: 19px;
+    color: lightslategray;
+}
+
+.author{
+    color: rgb(81, 224, 228);
+}
+
+.data{
+    font-size: 14px;
+}
