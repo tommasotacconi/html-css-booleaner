@@ -82,3 +82,23 @@ h2{
     font-size: 21px;
     color: lightslategray;
 }
+
+.first-suggestion{
+    background-image: url(img/monitor.jpg);
+    margin-bottom: 5px;
+}
+
+.second-suggestion{
+    background-image: url(img/graph.jpg);
+}
+
+.suggestion-image{
+    width: 300px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 22px;
+    box-sizing: border-box;
+    padding: 20px;
+}
