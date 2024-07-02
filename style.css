@@ -36,3 +36,19 @@ h1{
 .data{
     font-size: 14px;
 }
+
+figure{
+    margin: 20px 0 0;
+}
+
+.Tim-image-speech{
+    height: 350px;
+}
+
+.Tim-image-front-row{
+    height: 350px;
+}
+
+figcaption{
+    font-size: 14px;
+}
