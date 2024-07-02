@@ -77,3 +77,8 @@ tr:nth-child(odd){
       text-align: left;
       color: white;
 }
+
+h2{
+    font-size: 21px;
+    color: lightslategray;
+}
