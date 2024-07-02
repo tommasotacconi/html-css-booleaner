@@ -41,11 +41,7 @@ figure{
     margin: 20px 0 0;
 }
 
-.Tim-image-speech{
-    height: 350px;
-}
-
-.Tim-image-front-row{
+.Tim-image-speech, .Tim-image-front-row{
     height: 350px;
 }
 
