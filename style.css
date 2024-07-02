@@ -37,8 +37,13 @@ h1{
     font-size: 14px;
 }
 
-figure{
-    margin: 20px 0 0;
+main > figure{
+    margin: 10px 0 0;
+}
+
+figure figure{
+    display: inline-block;
+    margin: 0;
 }
 
 .Tim-image-speech, .Tim-image-front-row{
